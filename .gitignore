@@ -1,0 +1,6 @@
+node_modules/
+tf_env/
+__pycache__/
+*.pyc
+.env
+archive (5)/
